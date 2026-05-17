@@ -24,7 +24,7 @@ The relationship between volume and weekly gain was monotonic and roughly geomet
 
 The dataset spans **August 11, 2025 → May 16, 2026** (~40 weeks of continuous training). The training split changed once (5-day → 4-day Upper/Lower) at the start of Phase 2 and stayed constant from Phase 2 → Phase 3 — meaning **the only major variable changed between Phase 2 and Phase 3 was the number of working sets per exercise** (2 → 1). That transition is the cleanest comparison in the dataset.
 
-The original motivation was the long-running "volume debate" in strength training: how much volume is actually needed to drive progress, and at what point does extra volume stop adding (or begin subtracting) value?
+The original motivation was the long-running 'volume debate' in strength training: specifically, whether reducing training volume in favor of higher per-set intensity would still drive strength gains — and at what point the trade-off between volume and intensity becomes favorable for progress
 
 ---
 

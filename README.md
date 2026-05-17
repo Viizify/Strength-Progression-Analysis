@@ -14,8 +14,7 @@ This repository contains the raw training log and analysis from a personal exper
 | **Duration** | 11.6 weeks | 20.6 weeks | 7.3 weeks |
 | **Split** | 5-day rotation (Workout 1–5) | 4-day Upper/Lower × 2 | 4-day Upper/Lower × 2 |
 | **Working sets / exercise** | 3 | 2 | **1** |
-| **Avg. gain per week** | 0.52% | 1.03% | **1.87%** |
-| **Exercises improved** | — | — | **20 of 20** |
+| **Avg Str. gain per week** | 0.52% | 1.03% | **1.87%** |
 
 The relationship between volume and weekly gain was monotonic and roughly geometric: each halving of sets coincided with a near-doubling of the weekly gain rate.
 

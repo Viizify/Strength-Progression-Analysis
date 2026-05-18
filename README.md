@@ -16,7 +16,7 @@ This repository contains the raw training log and analysis from a personal exper
 | **Working sets / exercise** | 3 | 2 | **1** |
 | **Avg Str. gain per week** | 0.52% | 1.03% | **1.87%** |
 
-The relationship between volume and weekly gain was monotonic and roughly geometric: each halving of sets coincided with a near-doubling of the weekly gain rate.
+Less is more. Across all three phases, halving the working sets roughly doubled the weekly strength gain
 
 ---
 

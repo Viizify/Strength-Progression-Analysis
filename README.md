@@ -130,9 +130,7 @@ This is **a single-subject observational study, not a controlled experiment.** S
 - **Split change between P1 and P2.** P1 used a 5-day rotation; P2/P3 used a 4-day Upper/Lower. So P1 vs. P2 conflates *volume change* with *split change*. The cleanest comparison is P2 → P3 (same split, only sets changed).
 - **Phase 3 is short.** 7.3 weeks is enough for neural adaptation but short for muscular hypertrophy — gains may not sustain at the same rate over a longer block.
 - **e1RM is an estimate.** It approximates 1RM from sub-maximal sets and depends on the lifter's RPE accuracy. RPE calibration tends to improve over time, which can inflate measured "gains" in later phases independently of actual strength change.
-- **Minor anomaly:** April 9–10, 2026 had brief 2-set sessions (likely a deload or test) within an otherwise 1-set Phase 3.
 
-A proper test would randomise the order of phases, run them longer, and ideally include multiple subjects.
 
 ---
 

@@ -139,7 +139,7 @@ This is **a single-subject observational study, not a controlled experiment.** S
 ```
 .
 ├── README.md                  ← this file
-└── volume-debate-data.xlsx    ← full workbook (5 sheets)
+└── excel-fil-eng.xlsx    ← full workbook (3 sheets)
 ```
 
 ### What's in the Excel workbook
@@ -147,24 +147,8 @@ This is **a single-subject observational study, not a controlled experiment.** S
 | Sheet | Content |
 |---|---|
 | `Dashboard` | High-level summary, phase table, key findings (mostly English) |
-| `Treningsperioder` | Phase definitions: start date, end date, split, working sets (Norwegian) |
-| `Rådata` | Raw working-set log — 1,510 rows: session type, date, exercise, weight, reps, RPE (Norwegian field names) |
-| `1RM Progresjon` | Per-exercise e1RM start/end/gain by phase, with %/week (Norwegian) |
-| `Visualiseringer` | Pivoted data feeding the dashboard charts |
-
-**Norwegian → English field glossary:**
-- `Økt type` = Session type
-- `Dato` = Date
-- `Øvelse` = Exercise
-- `Vekt` = Weight (kg)
-- `Reps` = Reps
-- `RPE` = Rate of Perceived Exertion (0–10)
-- `Periode` = Phase
-- `Working sets per øvelse` = Working sets per exercise
-- `Snitt %/uke` = Average %/week
-- `Fremgang` / `Tilbakegang` = Progress / Regression
-- `gain kg` = Gain in kilograms
-
+| `Raw Data` | Raw working-set log — 1,510 rows: session type, date, exercise, weight, reps, RPE (Norwegian field names) |
+| `1RM Progression` | Per-exercise e1RM start/end/gain by phase, with %/week (Norwegian) |
 ---
 
 ## Reproducing the analysis
